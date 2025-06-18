@@ -43,7 +43,7 @@ Follow these steps to get the project up and running locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/shopping-cart-python.git
+git clone https://github.com/Raman-eng-has/ADVANCE-PYTHON/blob/main/SHOPPING_CART.py
 cd shopping-cart-python
 
 # Run the Python script
