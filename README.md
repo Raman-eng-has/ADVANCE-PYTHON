@@ -37,6 +37,7 @@ This project is perfect for:
 
 ---
 ## Output-ScreenShots
+
 ![add new product by the coder](https://github.com/user-attachments/assets/01e2be5d-861d-4fca-aca5-7771c116acec)
 ![view products or menu](https://github.com/user-attachments/assets/234be6fe-621a-4f02-8262-ec812d656126)
 ![add item to cart](https://github.com/user-attachments/assets/a9b680c3-ece3-4b6f-b37a-5b09a6e8261a)
