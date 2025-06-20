@@ -36,7 +36,17 @@ This project is perfect for:
 - **Cross-platform compatible** (Windows, macOS, Linux)
 
 ---
+ **screen-shots**
+![add item to cart](https://github.com/user-attachments/assets/a9b680c3-ece3-4b6f-b37a-5b09a6e8261a)
+![add new product by the coder](https://github.com/user-attachments/assets/01e2be5d-861d-4fca-aca5-7771c116acec)
+![checkout and exit](https://github.com/user-attachments/assets/7fa4ab42-0c1b-41f5-a8e1-4ed999e1285e)
+![remove item from cart](https://github.com/user-attachments/assets/2dcbf16a-a7ce-475d-a4d9-6a549ffe7d5a)
+![search product by product name](https://github.com/user-attachments/assets/e3d5b61e-b274-431c-a9be-3cd9f08fd269)
+![update quantity in cart](https://github.com/user-attachments/assets/9b0f0642-57bd-4605-9625-a26241a77a8d)
+![view cart](https://github.com/user-attachments/assets/5b99a06e-251e-41b5-a7c2-13b4d34019d6)
+![view products or menu](https://github.com/user-attachments/assets/234be6fe-621a-4f02-8262-ec812d656126)
 
+---
 ## Getting Started
 
 Follow these steps to get the project up and running locally:
